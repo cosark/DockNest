@@ -143,6 +143,10 @@ npm start
 
 In a second terminal run `npm run worker`, then open http://127.0.0.1:3000. On Windows PowerShell, use `npm.cmd` if `npm` is blocked.
 
+## One-click deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/DockNest/)
+
 ## Using DockNest
 
 1. **Sign in.** Use the setup token from `data/setup.token`, add your authenticator app and save the recovery codes.
